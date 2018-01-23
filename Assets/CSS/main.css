@@ -1,0 +1,28 @@
+html, body{
+	height: 100%;
+}
+#demo{
+      margin-top: 30px;height: 45px;background-color: #2196f3;color: white;font-size: 12px;
+    }
+
+.landing {
+	
+	color: #fff;
+	opacity: 0.9;
+	background-size: cover;
+	padding: 110px 0;
+	text-shadow: 0 0 6px #000;
+}
+
+.jumbotron p.help-block{
+   font-size: 1.2rem;
+   background:  transparent;
+}
+
+
+
+.jumbotron p{
+   font-size: 1.2em;
+   background:  transparent;
+}
+

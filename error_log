@@ -1,0 +1,40 @@
+[26-Dec-2016 13:54:31 Etc/GMT] PHP Fatal error:  Call to undefined method TransportModel::get_students() in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 322
+[26-Dec-2016 13:56:54 Etc/GMT] PHP Fatal error:  Call to undefined method TransportModel::get_students() in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 322
+[29-Dec-2016 19:19:24 Etc/GMT] PHP Fatal error:  Cannot redeclare TransportModel::get_studentsorget_teacher() in /home/alamaana/public_html/AdminPortal/application/models/TransportModel.php on line 143
+[12-Jan-2017 06:58:27 Etc/GMT] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1008
+[12-Jan-2017 07:06:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1031
+[12-Jan-2017 07:06:11 Etc/GMT] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1031
+[13-Jan-2017 07:22:58 Etc/GMT] PHP Fatal error:  Call to undefined method TransportModel::del_contct() in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1226
+[13-Jan-2017 07:23:31 Etc/GMT] PHP Fatal error:  Call to undefined method TransportModel::del_contct() in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1226
+[13-Jan-2017 07:30:30 Etc/GMT] PHP Fatal error:  Call to undefined method TransportModel::del_contct() in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1226
+[13-Jan-2017 08:42:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:42:10 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:42:27 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:42:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:42:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:42:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:42:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:42:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1060
+[13-Jan-2017 08:46:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1064
+[13-Jan-2017 08:47:12 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1064
+[13-Jan-2017 08:47:13 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1064
+[13-Jan-2017 08:47:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1064
+[13-Jan-2017 08:47:14 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1064
+[13-Jan-2017 08:47:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1062
+[13-Jan-2017 08:48:44 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:48:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:48:45 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:48:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:48:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:49:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:49:02 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:49:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:49:03 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:49:05 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:49:08 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1065
+[13-Jan-2017 08:49:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1070
+[13-Jan-2017 08:49:41 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1070
+[13-Jan-2017 08:49:46 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1070
+[13-Jan-2017 08:50:28 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1071
+[13-Jan-2017 08:50:29 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1071
+[13-Jan-2017 08:50:30 Etc/GMT] PHP Parse error:  syntax error, unexpected '{' in /home/alamaana/public_html/AdminPortal/application/controllers/Welcome.php on line 1071

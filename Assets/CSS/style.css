@@ -1,0 +1,90 @@
+.margin {
+	margin: 3em;
+}
+
+#__xmlview0--page0-cont{
+	background : #3F5161 !important;
+	
+}
+
+#__page0-cont,#__page1-cont, #__page2-cont, #__page3-cont, #__page4-cont, #__page5-cont, #__page6-cont, #__page7-cont, #__page8-cont, #__page9-cont, #__page10-cont, #__page11-cont, #__page12-cont{
+	background : #ffffff !important;
+}
+.list-background-default{
+	background : #3F5161 !important;
+}
+
+.list-background-selected{
+	background : #467398 !important;
+}
+
+.list-text-color-default{
+	color : #fafafa !important;
+	
+}
+
+.sapMLIB{
+	border-bottom : transparent !important;
+	border-top : transparent !important;
+	border-right : transparent !important;
+	border-left : transparent !important;
+}
+
+.list-background-selected:hover{
+	background : #467398 !important;
+}
+
+.list-background-default:hover{
+	background : #45596A !important;
+}
+
+.vertical-align{
+	vertical-align : middle;
+}
+
+.bar-background-color{
+	background-color : #2f3c48 !important;
+	box-shadow: inset 0 -0.0625rem #3F5161 !important;
+}
+
+.bar-text{
+	text-shadow : none !important;
+	color: #ffffff !important;
+}
+
+.item-height{
+	height : 2.5rem !important;
+}
+
+#__button0-inner{
+	background: #7D2116 !important;
+	color : #ffffff !important;
+	text-shadow: 0 0 0 #ffffff;
+}
+
+#__button0-inner:hover{
+	background: #96281B !important;
+	color : #ffffff !important;
+	text-shadow: 0 0 0 #ffffff;
+}
+
+#__button3-inner{
+	background: #7D2116 !important;
+	color : #ffffff !important;
+	text-shadow: 0 0 0 #ffffff;
+}
+
+#__button3-inner:hover{
+	background: #96281B !important;
+	color : #ffffff !important;
+	text-shadow: 0 0 0 #ffffff;
+}
+
+.font-size-small{
+	font-size : 12px;
+}
+
+
+
+
+
